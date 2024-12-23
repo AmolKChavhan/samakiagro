@@ -1,0 +1,13 @@
+.welcome {
+  text-align: center;
+  color: #fff;
+  position: relative;
+  height: 38rem;
+  padding: 0;
+}
+
+@media (max-width: 768px) {
+  .welcome {
+    height: 25rem;
+  }
+}

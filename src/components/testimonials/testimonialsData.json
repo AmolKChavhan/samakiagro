@@ -1,0 +1,14 @@
+{
+    "testimonials": [
+        {
+            "quote": "Samaki Agro helped us optimize our farm operations, leading to better productivity and sustainability.",
+            "author": "John Doe",
+            "position": "Farmer"
+        },
+        {
+            "quote": "Their technology for carbon sequestration has provided valuable insights into the environmental impact of our projects.",
+            "author": "Jane Smith",
+            "position": "Environmental Consultant"
+        }
+    ]
+}
